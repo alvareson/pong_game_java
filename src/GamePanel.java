@@ -15,4 +15,8 @@ public class GamePanel {
 	public void newPaddles() {
 		
 	}
+	
+	public void paint(Graphics g) {
+		
+	}
 }
